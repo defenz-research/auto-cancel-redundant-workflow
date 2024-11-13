@@ -1,0 +1,19 @@
+{
+  "name": "auto-cancel-redundant-workflow",
+  "version": "21.11.1",
+  "description": "This is Defenz Research repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/defenz-research/auto-cancel-redundant-workflow.git"
+  },
+  "author": "defenz-research",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/defenz-research/auto-cancel-redundant-workflow/issues"
+  },
+  "homepage": "https://github.com/defenz-research/auto-cancel-redundant-workflow#readme"
+}
